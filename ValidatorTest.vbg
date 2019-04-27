@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=Validator.vbp
+StartupProject=ValidatorTest.vbp
